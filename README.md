@@ -1,2 +1,2 @@
-# YouTube-ReactJS-Clone
-YouTube Clone Build using ReactJS and RapidAPI
+# YouTube-ReactJS-Clone-1.0
+YouTube Clone 1.0 Build using ReactJS and RapidAPI
